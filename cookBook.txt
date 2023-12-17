@@ -1,0 +1,6 @@
+Hranolky 150 g	60	10	hranolky
+Pstruh na víně 200 g	140	25	blank
+Kofola 0,5 l	25	3	kofola
+Hovězí steak 200 g	200	30	hovezi_steak
+Slepice na paprice 150 g	150	20	slepice_na_paprice
+Zmrzlinový pohár 100g	55	10	zmrzlinovy_pohar
